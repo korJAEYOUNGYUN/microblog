@@ -7,6 +7,7 @@ A micro blog application using flask
     - flask-login
     - flask-migrate
     - flask-mail
+    - flask-moment
     - flask-sqlalchemy
     - flask-wtf
     
