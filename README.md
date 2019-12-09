@@ -2,8 +2,10 @@
 A micro blog application using flask
 
 ## Dependencies
+- elasticsearch
 - flask
     - flask-bootstrap
+    - flask-httpauth
     - flask-login
     - flask-migrate
     - flask-mail
