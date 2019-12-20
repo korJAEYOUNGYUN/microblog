@@ -2,7 +2,7 @@
 A micro blog application using flask by [Miguel](https://github.com/miguelgrinberg/microblog).
 Details in [here](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
 
-
+![screenshot](./screenshots/screenshot1.png)
 
 ## Dependencies
 - elasticsearch
